@@ -22,7 +22,7 @@ public class IniciandoArrayList {
         Collections.sort(nomes);//Collections.sort -> Colocar em ordem alfabética
         System.out.println(nomes);
 
-        nomes.set(3, "Bob");//set -> alteraçãoo do elementos passando o index
+        nomes.set(3, "Bob");//set -> alteração do elementos passando o index
         System.out.println(nomes);
 
         nomes.remove(3);// remove -> remove um elemento pelo index

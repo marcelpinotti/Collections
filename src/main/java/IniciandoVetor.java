@@ -5,7 +5,7 @@ public class IniciandoVetor {
 
     public static void main(String[] args) {
 
-        List<String> sports = new Vector<>();//Instanciar com o tipo primitivo <tipo>
+        List<String> sports = new Vector<>();//Instanciar com o tipo primitivo Generics <tipo>
 
         sports.add("Futebol"); //add -> adiciona a lista
         sports.add("Voleibol");
@@ -16,7 +16,7 @@ public class IniciandoVetor {
 
         System.out.println(sports);
 
-        sports.set(3, "Hipismo");//set -> alteraçãoo do elementos passando o index
+        sports.set(3, "Hipismo");//set -> alteração do elementos passando o index
         System.out.println(sports);
 
         sports.remove(4);// remove -> remove um elemento pelo index
