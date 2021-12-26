@@ -11,7 +11,7 @@ Foram necessários os seguintes pré-requisitos para a execução dos projetos d
 - Intellj IDEA Community Edition.
 - Controle de versão GIT.
 
-# Conteúdos em suas Branchs no Repositório
+# Conteúdos e suas Branchs no Repositório
 
 **Collections** - Essa branch possui conteúdos de Array, List, Queue, LinkedList, ArrayList, Vector, Map, HashMap, TreeMap, Set, HashSet e LinkedHashSet  - [Link da Branch](https://github.com/marcelpinotti/Collections_Stream_Comparable-Comparators/tree/collections) ;
 
