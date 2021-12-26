@@ -13,6 +13,9 @@ Foram necessários os seguintes pré-requisitos para a execução dos projetos d
 
 # Conteúdos em suas Branchs no Repositório
 
-*Collections** - Essa branch possui conteúdos de Array, List, Queue, LinkedList, ArrayList, Vector, Map, HashMap, TreeMap, Set, HashSet e LinkedHashSet  - [Link da Branch](https://github.com/marcelpinotti/Collections_Stream_Comparable-Comparators/tree/collections) ;
+**Collections** - Essa branch possui conteúdos de Array, List, Queue, LinkedList, ArrayList, Vector, Map, HashMap, TreeMap, Set, HashSet e LinkedHashSet  - [Link da Branch](https://github.com/marcelpinotti/Collections_Stream_Comparable-Comparators/tree/collections) ;
 
-** Finalizando
+**Stream** - Essa branch possui conteúdos sobre o recurso Stream, que ajuda a manipular coleções de maneira mais simples e eficiente - [Link da Branch](https://github.com/marcelpinotti/Collections_Stream_Comparable-Comparators/tree/stream) ;
+
+**Comparable e Comparators** - Essa branch possui conteúdos sobre as interfaces Comparable e Comparators, que auxiliam na ordenação das classes - [Link da Branch](https://github.com/marcelpinotti/Collections_Stream_Comparable-Comparators/tree/comparable_comparators) ;
+
