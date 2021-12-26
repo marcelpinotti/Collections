@@ -7,7 +7,7 @@ public class IniciandoStream {
 
     public static void main(String[] args) {
 
-        //stream -> muito utilizado quando está há grandes coleções e necessita de performance, pois a velocidade de busca e a iteração são mais rápidas.
+        //stream -> muito utilizado quando há grandes coleções e necessita de performance, pois a velocidade de busca e a iteração são mais rápidas.
 
         List<String> nomes = new ArrayList<>();
 
