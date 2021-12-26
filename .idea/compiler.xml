@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Collections_Stream_Comparable-Comparators" />
         <module name="Collections_Esturutas_de_Dados" />
       </profile>
     </annotationProcessing>
